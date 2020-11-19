@@ -1,4 +1,4 @@
-My .m file is in this zip file. I didn't forget to label it as '.m'. I just had to compress my application in this zip.
+App I made for a school project
 All the files here are necessary for my app to run.
 
 List of file names in this file
